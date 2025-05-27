@@ -31,8 +31,8 @@ This project is a lightweight **Retrieval-Augmented Generation (RAG)** applicati
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/rosiefaulkner/RAG-app.git](https://github.com/rosiefaulkner/RAG-app.git)
+cd RAG-app
 ```
 
 ### 2. Install dependencies
